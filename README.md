@@ -42,10 +42,12 @@ Using Excel Pivot Tables, the following analyses were conducted:
 * **Average delivery duration** analysis by route
 * **Material movement** and delay analysis
 * **Booking trends** by year and month
+<img width="2260" height="1032" alt="Pivot_Table_ss" src="https://github.com/user-attachments/assets/7c66925f-a8e6-45c9-b1dd-212f897c0fa0" />
 
 ---
 
 ## 📈 Key Insights
+<img width="2402" height="1188" alt="Dashboard" src="https://github.com/user-attachments/assets/f9483f84-4e38-43cc-aedd-fdb64d4d2092" />
 
 ### 🚛 Route & Distance Insights
 

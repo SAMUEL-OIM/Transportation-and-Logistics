@@ -1,5 +1,4 @@
-# 📊 Logistics Performance Analysis Using Excel Pivot Tables
-
+# 📊 Logistics Performance Analysis
 ## 📌 Project Overview
 This project analyzes a logistics dataset to evaluate **shipment volume, route efficiency, delivery duration, delay patterns, supplier performance, customer trends, and material movement  using **Microsoft Excel Pivot Tables.
 The objective is to identify operational inefficiencies and delay drivers and propose data-driven improvements for logistics performance.
